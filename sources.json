@@ -28,14 +28,6 @@
       "type": "direct_raw",
       "wms_url": "https://git.spbr.net/spacebar/inkay/releases/download/latest/Inkay-spfn.wms",
       "wps_url": "https://git.spbr.net/spacebar/inkay/releases/download/latest/Inkay-spfn.wps"
-    },
-    {
-      "id": "test5",
-      "name": "TEST 5 (remove me)",
-      "color": "FF3333FF",
-      "type": "direct_raw",
-      "wms_url": "https://example.invalid/test.wms",
-      "wps_url": "https://example.invalid/test.wps"
     }
   ]
 }
