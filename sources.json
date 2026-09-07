@@ -1,0 +1,33 @@
+{
+  "sources": [
+    {
+      "id": "juxt",
+      "name": "Juxtaposition",
+      "color": "8C50DCFF",
+      "type": "github_zip",
+      "repo": "PretendoNetwork/Inkay"
+    },
+    {
+      "id": "rose",
+      "name": "Roseverse",
+      "color": "00C900FF",
+      "type": "github_raw",
+      "repo": "Project-Rose/Inkay-Roseverse"
+    },
+    {
+      "id": "nico",
+      "name": "Nico Christmann",
+      "color": "00C900FF",
+      "type": "github_raw",
+      "repo": "Happynico7504/Inkay-NicoChristmann"
+    },
+    {
+      "id": "spfn",
+      "name": "Splatfestival Network",
+      "color": "00C900FF",
+      "type": "direct_raw",
+      "wms_url": "https://git.spbr.net/spacebar/inkay/releases/download/latest/Inkay-spfn.wms",
+      "wps_url": "https://git.spbr.net/spacebar/inkay/releases/download/latest/Inkay-spfn.wps"
+    }
+  ]
+}
