@@ -1,8 +1,8 @@
 {
   "sources": [
     {
-      "id": "juxt",
-      "name": "Juxtaposition",
+      "id": "pretendo",
+      "name": "Pretendo",
       "color": "8C50DCFF",
       "type": "github_zip",
       "repo": "PretendoNetwork/Inkay"
