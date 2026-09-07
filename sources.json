@@ -17,14 +17,14 @@
     {
       "id": "nico",
       "name": "Nico Christmann",
-      "color": "00C900FF",
+      "color": "FFAAFFFF",
       "type": "github_raw",
       "repo": "Happynico7504/Inkay-NicoChristmann"
     },
     {
       "id": "spfn",
       "name": "Splatfestival Network",
-      "color": "00C900FF",
+      "color": "403020FF",
       "type": "direct_raw",
       "wms_url": "https://git.spbr.net/spacebar/inkay/releases/download/latest/Inkay-spfn.wms",
       "wps_url": "https://git.spbr.net/spacebar/inkay/releases/download/latest/Inkay-spfn.wps"
