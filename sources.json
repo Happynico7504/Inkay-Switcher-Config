@@ -28,16 +28,16 @@
       "type": "direct_raw",
       "wms_url": "https://git.spbr.net/spacebar/inkay/releases/download/latest/Inkay-spfn.wms",
       "wps_url": "https://git.spbr.net/spacebar/inkay/releases/download/latest/Inkay-spfn.wps"
-    }
-        {
+    },
+    {
       "id": "protarium",
       "name": "Protarium Network",
       "color": "DE3E3EFF",
       "type": "direct_raw",
       "wms_url": "https://github.com/Happynico7504/Inkay-Switcher-Config/raw/refs/heads/main/inkays/Inkay-Protarium.wms",
       "wps_url": "https://github.com/Happynico7504/Inkay-Switcher-Config/raw/refs/heads/main/inkays/Inkay-Protarium.wps"
-    }
-        {
+    },
+    {
       "id": "samtendo",
       "name": "Samtendo Network",
       "color": "4AC0FFFF",
