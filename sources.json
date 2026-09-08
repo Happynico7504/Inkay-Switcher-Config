@@ -8,26 +8,42 @@
       "repo": "PretendoNetwork/Inkay"
     },
     {
-      "id": "rose",
+      "id": "roseverse",
       "name": "Roseverse",
       "color": "00C900FF",
       "type": "github_zip",
       "repo": "Project-Rose/Inkay-Roseverse"
     },
     {
-      "id": "nico",
+      "id": "nicochristmann",
       "name": "Nico Christmann",
       "color": "FFAAFFFF",
       "type": "github_raw",
       "repo": "Happynico7504/Inkay-NicoChristmann"
     },
     {
-      "id": "spfn",
+      "id": "splatfestival",
       "name": "Splatfestival Network",
       "color": "403020FF",
       "type": "direct_raw",
       "wms_url": "https://git.spbr.net/spacebar/inkay/releases/download/latest/Inkay-spfn.wms",
       "wps_url": "https://git.spbr.net/spacebar/inkay/releases/download/latest/Inkay-spfn.wps"
+    }
+        {
+      "id": "protarium",
+      "name": "Protarium Network",
+      "color": "DE3E3EFF",
+      "type": "direct_raw",
+      "wms_url": "https://github.com/Happynico7504/Inkay-Switcher-Config/raw/refs/heads/main/inkays/Inkay-Protarium.wms",
+      "wps_url": "https://github.com/Happynico7504/Inkay-Switcher-Config/raw/refs/heads/main/inkays/Inkay-Protarium.wps"
+    }
+        {
+      "id": "samtendo",
+      "name": "Samtendo Network",
+      "color": "4AC0FFFF",
+      "type": "direct_raw",
+      "wms_url": "https://github.com/Happynico7504/Inkay-Switcher-Config/raw/refs/heads/main/inkays/Electrode-samtendo.wms",
+      "wps_url": "https://github.com/Happynico7504/Inkay-Switcher-Config/raw/refs/heads/main/inkays/Electrode-samtendo.wps"
     }
   ]
 }
