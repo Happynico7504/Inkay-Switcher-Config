@@ -11,7 +11,7 @@
       "id": "rose",
       "name": "Roseverse",
       "color": "00C900FF",
-      "type": "github_raw",
+      "type": "github_zip",
       "repo": "Project-Rose/Inkay-Roseverse"
     },
     {
